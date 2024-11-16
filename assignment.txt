@@ -1,6 +1,4 @@
-STUDENT DROPOUT RISK ANALYSIS: MODEL FINDINGS AND RECOMMENDATIONS
-
-
+STUDENT DROPOUT RISK ANALYSIS: 
 summary
 my machine learning model analyzes student data to predict graduation success with approximately 87% accuracy. This tool can help identify at-risk students early in their academic journey, enabling proactive intervention strategies.
 
